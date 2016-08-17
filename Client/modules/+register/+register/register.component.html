@@ -1,0 +1,16 @@
+﻿<div class="col-lg-6 col-lg-offset-3">
+
+    <div class="panel panel-default">
+
+        <div class="panel-heading">
+            Register
+        </div>
+        
+        <div class="panel-body">
+            <appc-error-summary [errors]="errors"></appc-error-summary>
+
+            <appc-dynamic-form (formsubmit)="register($event)" [controls]="controls" [btnText]="'Register'"></appc-dynamic-form>
+
+        </div>
+    </div>
+</div>

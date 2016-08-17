@@ -47,7 +47,7 @@
     set ASPNETCORE_ENVIRONMENT=Development
 9. Run the app 
     dotnet run (for single run) OR dotnet watch (in watch mode)
-10. Browse using http://localhost:5000
+10. Browse using https://localhost:44348
 
 ```
 

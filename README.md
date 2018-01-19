@@ -5,6 +5,8 @@
 
 ## Features
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/crh225/AspNetCoreSpaSeed.svg)](https://greenkeeper.io/)
+
 * [ASP.NET Core](http://www.dot.net/)
 * [Entity Framework Core](https://docs.efproject.net/en/latest/)
 * [Angular 2 RC5](https://angular.io/)
